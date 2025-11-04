@@ -1,0 +1,11 @@
+# therapy-chatbot/requirements.txt
+transformers
+torch
+flask                # if you’re building a web API
+fastapi[all]         # or whichever server framework you prefer
+python-dotenv        # for loading .env secrets
+fastapi
+uvicorn
+openai
+
+
